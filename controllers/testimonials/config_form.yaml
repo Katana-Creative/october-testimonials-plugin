@@ -1,0 +1,10 @@
+name: Testimonials
+modelClass: Katana\Testimonials\Models\Testimonials
+form: $/katana/testimonials/models/testimonials/fields.yaml
+defaultRedirect: katana/testimonials/testimonials
+create:
+    redirect: 'katana/testimonials/testimonials/update/:id'
+    redirectClose: katana/testimonials/testimonials
+update:
+    redirect: katana/testimonials/testimonials
+    redirectClose: katana/testimonials/testimonials

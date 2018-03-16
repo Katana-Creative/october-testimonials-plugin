@@ -1,0 +1,11 @@
+plugin:
+    name: 'katana.testimonials::lang.plugin.name'
+    description: 'katana.testimonials::lang.plugin.description'
+    author: Katana
+    icon: oc-icon-comment-o
+    homepage: ''
+navigation:
+    testimonials:
+        label: Testimonials
+        url: katana/testimonials/testimonials
+        icon: icon-comment-o

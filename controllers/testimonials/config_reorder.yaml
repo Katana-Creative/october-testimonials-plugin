@@ -1,0 +1,4 @@
+title: Testimonials
+modelClass: Katana\Testimonials\Models\Testimonials
+toolbar:
+    buttons: reorder_toolbar

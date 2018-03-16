@@ -1,0 +1,9 @@
+columns:
+    name:
+        label: Name
+        type: text
+        sortable: true
+    details:
+        label: Profession
+        type: text
+        sortable: false
